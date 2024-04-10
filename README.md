@@ -1,6 +1,6 @@
 # Powershell
 
-## Stop Screensaver
+## Avoid Screensaver
 
 ```ps
 $wshell = New-Object -ComObject wscript.shell;
